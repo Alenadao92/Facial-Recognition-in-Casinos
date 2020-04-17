@@ -43,6 +43,6 @@ Identify guests using any Android or iOS phone. Upload new profile images from a
 5. [Face Recognition In Casino](https://gigasource.io/facial-recognition-in-casinos/)
 6. [Food Online Ordering System](https://gigasource.io/food-online-ordering/)
 7. [Facial Recognition In School](https://gigasource.io/facial-recognition-in-school/)
-8 [Facial Recognition In Airport](https://gigasource.io/biometric-facial-recognition-in-airports/)
-9 [Facial Recognition In Retail](https://gigasource.io/facial-recognition-in-retail-stores/)
+8. [Facial Recognition In Airport](https://gigasource.io/biometric-facial-recognition-in-airports/)
+9. [Facial Recognition In Retail](https://gigasource.io/facial-recognition-in-retail-stores/)
 10. [Face Recognition Software Company](https://gigasource.io/face-recognition-software-company/)
