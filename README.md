@@ -1,4 +1,4 @@
-# Facial-Recognition-in-Casinos
+# Facial Recognition in Casinos - Free Download Face Attendance App
 Giga [Face Recognition Attendance Software](https://gigasource.io/face-attendance/) help to recognize and new and repeat VIP players right at the doorstep. Seamlessly inform the security team about unwanted visitors, and prevent fraud and enhance customers’ experiences.
 - Download here: https://gigasource.io/facial-recognition-in-casinos/
 ## Outstanding Features
@@ -21,3 +21,9 @@ As you can see, humans can only remember so many faces. But a face detection sys
 
 ### Predict And Prevent Future Crime
 Based on your analytics and historical matches, you can predict peak hours when unwanted guests are likely to show up. Hence, you can staff up and down to save time and efforts.
+
+### Free Mobile Face Recognition App
+Identify guests using any Android or iOS phone
+Upload new profile images from anywhere, any time
+![Face recognition attendance app](https://gigasource.b-cdn.net/wp-content/uploads/2020/03/face-recognition-1-1024x703.png)
+
