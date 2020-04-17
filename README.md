@@ -1,6 +1,6 @@
 # Facial-Recognition-in-Casinos
 Giga [Face Recognition Attendance Software](https://gigasource.io/face-attendance/) help to recognize and new and repeat VIP players right at the doorstep. Seamlessly inform the security team about unwanted visitors, and prevent fraud and enhance customers’ experiences.
-Download here: https://gigasource.io/facial-recognition-in-casinos/
+- Download here: https://gigasource.io/facial-recognition-in-casinos/
 ## Outstanding Features
 ### Fraud Detect & Crime Prevention
 When criminals or unwanted guests enter the casino, Giga’s facial recognition in casinos ensures that you’re the first to know.
@@ -9,7 +9,7 @@ Our facial recognition attendance system automatically identifies cheaters and a
 
 ### Recognize VIPS
 Gigasource Facial Recognition helps you identify your most valuable players right at the doorstep and upgrade their experience in your Casinos. Gigasource Facial Attendance comes with real-time data that you can offer high-quality customer service for VIP customers. AI technology help to keep guests playing, improve the experience, and convert into loyal customers.
-
+![Face recognition attendance for casino](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/Group-919.png)
 ### Convert New Players In Existing Customer Loyalty Programs.
 It is also easy for casinos to know new and repeat visitors. Providing high-quality services to enhance their loyalty. Make your customers come back more and more and increase their spending as well.
 
